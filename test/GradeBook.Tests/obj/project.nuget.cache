@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+xDKyGxKa7xpM8qvC87SWMplhJhunAMhLY3DWjy8KYguq1hPZ0rHAFvsdj0jWa/M4dOvTwXuLsX/rxLao6zZHg==",
+  "dgSpecHash": "TXUhDqGRAc6HBeHRQ0a7dTqWkUQjKsJUptqmK8LdezCpGcIidIMKNk8klS3QX+E03IEl71KH3bPS6ZqYwSnG0A==",
   "success": true,
   "projectFilePath": "/Users/danielheeney/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
   "expectedPackageFiles": [
