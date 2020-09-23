@@ -77,13 +77,14 @@ namespace GradeBook.Tests
         public void StringBehavesLikeAValueType()
         {
             string name = "Danny";
-            MakeUpperCase(name);
-            Assert.Equal("DANNY", name);
+            var upper = MakeUpperCase(name);
+            Assert.Equal("Danny", name);
+            Assert.Equal("DANNY", upper);
         }
 
-        private void MakeUpperCase(string parameter)
+        private string MakeUpperCase(string parameter)
         {
-            parameter.ToUpper();
+            return parameter.ToUpper();
 
         }
 
